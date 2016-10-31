@@ -134,3 +134,4 @@ view.setOnclickListener(view->{//方法内容});
 是不是很简单。在Android Studio2.2之前虽然jdk可以使用jdk8但是对lambda却支持不是很好，当然可以引入RetroLambda Plugin来支持。随着Android Studio2.1的发布google官方终于原生支持lambda了。
 不可否认使用lambda表达式使我们的代码更加简洁了，但也有人说使用了lambda表达式使我们的代码可读性降低了。
 话说回来，lambda表达式作为一个新的事物。在大家都未接受的时候肯定认可他的人觉得好用漂亮。而不认可的人或者是没有入门的人觉得不好用，还看不懂就想当年Window Xp刚出来的时候大家都觉得Window 2000才是王道，XP系统那么花哨好看不好用。甚至有人还把XP的主题给换回98那种样式。扯远了。正是因为有人觉得这种new Interface的方式不好用。所以才会有lambda这种新的事物出来。lambda表达式最早是出现在Scala语言中。他允许通过函数式的方式来调用方法。可能因为Oracle官方发现了这一简便性，所以才有了jdk8中的lambda表达式。相信在不久的将来lambda表达式会变得越来越流行，肯定会有越来越多的人使用这一表达式。尤其搭配上当下热门的RxJava、Retrofit等技术。
+简书地址：http://www.jianshu.com/p/1f8844303335
